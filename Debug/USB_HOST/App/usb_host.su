@@ -1,0 +1,6 @@
+../USB_HOST/App/usb_host.c:70:6:writeFile	608	static
+../USB_HOST/App/usb_host.c:109:8:read_txt	600	static
+../USB_HOST/App/usb_host.c:148:6:loadSVMParams	1696	static
+../USB_HOST/App/usb_host.c:311:6:MX_USB_HOST_Init	8	static
+../USB_HOST/App/usb_host.c:338:6:MX_USB_HOST_Process	8	static
+../USB_HOST/App/usb_host.c:346:13:USBH_UserProcess	16	static
