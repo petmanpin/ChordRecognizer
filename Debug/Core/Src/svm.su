@@ -1,0 +1,2 @@
+../Core/Src/svm.c:16:7:rbfKernel	40	static
+../Core/Src/svm.c:33:5:svmPredict	488	dynamic
