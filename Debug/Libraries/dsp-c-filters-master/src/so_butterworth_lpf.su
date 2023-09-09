@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/so_butterworth_lpf.c:6:11:so_butterworth_lpf_calculate_coeffs	56	static
+../Libraries/dsp-c-filters-master/src/so_butterworth_lpf.c:17:8:so_butterworth_lpf_filter	24	static
+../Libraries/dsp-c-filters-master/src/so_butterworth_lpf.c:35:6:so_butterworth_lpf_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/so_butterworth_lpf.c:40:8:so_butterworth_lpf_get_offset	16	static

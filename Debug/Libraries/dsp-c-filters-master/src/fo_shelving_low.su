@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/fo_shelving_low.c:6:11:fo_shelving_low_calculate_coeffs	64	static
+../Libraries/dsp-c-filters-master/src/fo_shelving_low.c:23:8:fo_shelving_low_filter	32	static
+../Libraries/dsp-c-filters-master/src/fo_shelving_low.c:34:6:fo_shelving_low_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/fo_shelving_low.c:39:8:fo_shelving_low_get_offset	16	static

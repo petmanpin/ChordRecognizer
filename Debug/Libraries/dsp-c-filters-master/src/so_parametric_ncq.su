@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/so_parametric_ncq.c:6:11:so_parametric_ncq_calculate_coeffs	80	static
+../Libraries/dsp-c-filters-master/src/so_parametric_ncq.c:23:8:so_parametric_ncq_filter	32	static
+../Libraries/dsp-c-filters-master/src/so_parametric_ncq.c:34:6:so_parametric_ncq_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/so_parametric_ncq.c:39:8:so_parametric_ncq_get_offset	16	static

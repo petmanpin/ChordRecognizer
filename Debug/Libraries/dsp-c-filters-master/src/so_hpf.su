@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/so_hpf.c:6:11:so_hpf_calculate_coeffs	64	static
+../Libraries/dsp-c-filters-master/src/so_hpf.c:20:8:so_hpf_filter	24	static
+../Libraries/dsp-c-filters-master/src/so_hpf.c:30:6:so_hpf_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/so_hpf.c:35:8:so_hpf_get_offset	16	static

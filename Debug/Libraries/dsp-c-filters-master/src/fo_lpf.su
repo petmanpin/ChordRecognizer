@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/fo_lpf.c:6:11:fo_lpf_calculate_coeffs	48	static
+../Libraries/dsp-c-filters-master/src/fo_lpf.c:18:8:fo_lpf_filter	24	static
+../Libraries/dsp-c-filters-master/src/fo_lpf.c:27:6:fo_lpf_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/fo_lpf.c:32:8:fo_lpf_get_offset	16	static

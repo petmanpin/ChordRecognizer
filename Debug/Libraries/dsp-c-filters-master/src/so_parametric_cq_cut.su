@@ -1,0 +1,4 @@
+../Libraries/dsp-c-filters-master/src/so_parametric_cq_cut.c:6:11:so_parametric_cq_cut_calculate_coeffs	80	static
+../Libraries/dsp-c-filters-master/src/so_parametric_cq_cut.c:27:8:so_parametric_cq_cut_filter	32	static
+../Libraries/dsp-c-filters-master/src/so_parametric_cq_cut.c:38:6:so_parametric_cq_cut_set_offset	16	static
+../Libraries/dsp-c-filters-master/src/so_parametric_cq_cut.c:43:8:so_parametric_cq_cut_get_offset	16	static
